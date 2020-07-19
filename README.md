@@ -2,7 +2,7 @@
 
 This is a student who just start his journey on world of codes for nearly a year. He's eager to learn all the technologies about computer.
 
-- I'm a freshman both in university and programs
+- I'm a freshman both in university and coding
 
 - First programming language for me: C (and VB, Lua unseriously)
 
