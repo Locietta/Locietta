@@ -8,7 +8,7 @@ This is a student who just start his journey on world of codes for nearly a year
 
 -🌱 I'm currently learning Python C++ for NLP and Machine-Learning
 
--⭐ Dreaming to be an individual **game developer**
+-⭐ Dreaming to be an individual **Game Developer**
 
 <!--
 **Locietta/Locietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
