@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+This is a student who just start his journey on world of codes for nearly a year. He's eager to learn all the technologies about computer.
+
+- I'm a freshman both in university and programs
+
+- First programming language for me: C (and VB, Lua unseriously)
+
+-🌱 I'm currently learning Python C++ for NLP and Machine-Learning
+
+-⭐ Dreaming to be an individual **game developer**
+
 <!--
 **Locietta/Locietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
