@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hi there~ This is Locietta.</h2>
 
 This is a student who just start his journey on world of codes for nearly a year. He's eager to learn all the technologies about computer.
 
