@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi~ </h2>
 
-- I'm a freshman both in university and coding
+- CS undergrduate. Learning everything that interests me~
 
 - First programming language for me: C (and VB, Lua unseriously)
 
