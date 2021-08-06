@@ -4,9 +4,9 @@
 
 - First programming language for me: C (and VB, Lua unseriously)
 
--🌱 I'm currently learning Python/C++ for NLP and Machine-Learning
+- 🌱 I'm currently learning Python/C++ for NLP and Machine-Learning
 
--⭐ Dreaming to be an individual **Game Developer** 
+- ⭐ Dreaming to be an individual **Game Developer** 
 
 <!--
 **Locietta/Locietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
