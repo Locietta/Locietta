@@ -4,7 +4,7 @@
 
 - First programming language for me: C (and VB, Lua unseriously)
 
-- 🌱 I'm currently learning Python/C++ for NLP and Machine-Learning
+- 🌱 I'm currently learning C++ for Computer Graphics and doing some interesting things
 
 - ⭐ Dreaming to be an individual **Game Developer** 
 
