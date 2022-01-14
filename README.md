@@ -2,7 +2,7 @@
 
 - CS undergrduate. Learning everything that interests me~
 
-- First programming language for me: C (and VB, Lua unseriously)
+- programming languages: C/C++, python and lua
 
 - 🌱 I'm currently learning C++ for Computer Graphics and doing some interesting things
 
