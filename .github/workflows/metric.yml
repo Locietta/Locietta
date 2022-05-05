@@ -27,11 +27,10 @@ jobs:
           plugin_habits_from: 200
           
           plugin_languages: yes
-          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_skipped: Locietta/meshL
+          plugin_languages_skipped: meshL
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
