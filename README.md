@@ -1,27 +1,9 @@
-<h2 align="center">👋 Hi~ </h2>
+![Metrics](/github-metrics.svg)
 
-- ZJU CS undergrduate. Learning everything that interests me~
+### About me
 
+- ZJU CS undergrduate. Playing with codes is fun.
 - Keen to custom everything myself if possible: shell prompt, scripts, keymaps, container and kernel...
-
 - 🌱 I'm currently learning C++ for Computer Graphics and Game Engine
-
 - ⭐ Dreaming to be an individual **Game Developer** 
-
-[![Locietta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Locietta&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locietta&hide=ANTLR&count_private=true&show_icons=true&layout=compact&langs_count=8" />
-
-<!--
-**Locietta/Locietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
