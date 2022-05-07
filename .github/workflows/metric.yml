@@ -19,6 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
+          repositories_forks: no
 #           plugin_habits: yes
 #           plugin_habits_charts_type: classic
 #           plugin_habits_days: 14
