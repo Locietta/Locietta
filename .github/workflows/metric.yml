@@ -36,6 +36,7 @@ jobs:
           plugin_languages_skipped: meshL
           plugin_languages_limit: 8
           plugin_languages_details: lines, percentage
+          plugin_languages_indepth: yes
 #           plugin_languages_recent_categories: markup, programming
 #           plugin_languages_recent_days: 14
 #           plugin_languages_recent_load: 300
@@ -44,4 +45,4 @@ jobs:
           commits_authoring: ${{ secrets.AUTHOR_EMAILS }}
           plugin_lines: yes
           plugin_lines_skipped: blogs
-          config_order: header, followup, languages, repositories
+#           config_order: header, followup, languages, repositories
