@@ -22,6 +22,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           optimize: css, xml
+          repositories_forks: yes
 #           plugin_habits: yes
 #           plugin_habits_charts_type: classic
 #           plugin_habits_days: 14
@@ -32,7 +33,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: Jupyter Notebook, Objective-C
+          plugin_languages_ignored: Jupyter Notebook, Objective-C, ANTLR
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, lines, percentage
           # plugin_languages_indepth: yes
