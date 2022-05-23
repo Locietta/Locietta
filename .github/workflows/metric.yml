@@ -44,6 +44,6 @@ jobs:
           plugin_languages_threshold: 0%
           commits_authoring: Locietta, locietta, ${{ secrets.AUTHOR_EMAILS }}
           plugin_lines: yes
-          plugin_languages_aliases: C:C/C++, C++:C/C++
+#         plugin_languages_aliases: C:C/C++, C++:C/C++
 #           plugin_languages_other: yes
 #           config_order: header, followup, languages, repositories
