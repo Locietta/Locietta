@@ -2,7 +2,7 @@
 
 ### About me
 
-- ZJU CS undergrduate. Playing with code is fun.
-- Keen to customize everything myself if possible: shell prompt, scripts, keymaps, container and kernel...
-- 🌱 I'm currently learning C++ for Computer Graphics and Game Engine
+- ZJU CS undergrduate. Having fun with coding~
+- Doing things in a geek way. Everything we have is composable and can be customized!
+- 🌱 Currently learning C++ for Computer Graphics and Game Engine
 - ⭐ Dreaming to be an individual **Game Developer** 
