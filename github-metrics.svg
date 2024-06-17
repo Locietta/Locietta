@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -146,11 +146,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="5" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="5" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="5" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="5" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="5" y="0" width="215" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="4.888888888888889" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="4.888888888888889" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="4.888888888888889" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="4.888888888888889" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="4.888888888888889" y="0" width="215.11111111111111" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -168,7 +168,7 @@
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">43 <small>closed</small></span>
+                                <span class="no-wrap">44 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,14 +245,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.7025624958786" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="256.7025624958786" y="0" width="65.23164751980549" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="321.9342100156841" y="0" width="57.08039473107156" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="379.01460474675565" y="0" width="40.9127201605074" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.927324907263" y="0" width="28.01277446016642" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.94009936742947" y="0" width="6.715280794863713" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="454.65538016229317" y="0" width="3.031448052958101" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.6868282152513" y="0" width="2.3131717847487057" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.6617486126766" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="256.6617486126766" y="0" width="65.22127615141297" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="321.88302476408955" y="0" width="57.07131935394626" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="378.9543441180358" y="0" width="40.90621532874462" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.86055944678037" y="0" width="28.081457359146963" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.9420168059274" y="0" width="6.714213112938898" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="454.65622991886625" y="0" width="3.030966074260407" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.68719599312664" y="0" width="2.312804006873288" height="8" fill="#6594b9"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -289,7 +289,7 @@
                             </div>
                             <small>
                                 <div>193 kB</div>
-                                <div>6.09%</div>
+                                <div>6.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
